@@ -8,10 +8,10 @@ const userData = (() => {
         .map(
           (i) =>
             `<div>
-					/** Traemos imagen de usuario*/
+					
 					<img src='${i.picture.large}'/>
 					<div>
-					/** Traemos más datos de usuario*/
+					
 						<span>${i.name.first} ${i.name.last} </span></br>
 						<span>${i.email} </span></br>
 						<span>${i.cell} </span></br>

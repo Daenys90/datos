@@ -20,3 +20,4 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 
 - Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10, MacOS 10.15)
 - Navegador (Firefox, Chrome, Safari)
+# datos
